@@ -34,7 +34,7 @@ public class UserServlet extends HttpServlet {
 			writer.write("false");
 			
 		}else{
-			System.out.println("岳不群");
+			System.out.println("岳不群  22");
 			writer.write("true");
 			
 		}
