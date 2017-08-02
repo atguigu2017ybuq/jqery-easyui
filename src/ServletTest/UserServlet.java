@@ -34,7 +34,7 @@ public class UserServlet extends HttpServlet {
 			writer.write("false");
 			
 		}else{
-			
+			System.out.println("");
 			writer.write("true");
 			
 		}
